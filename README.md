@@ -1,11 +1,6 @@
 Store URL: https://pre-provisioned-w7cwqebsp1.mybigcommerce.com
 
-Task 1 - Complete
-Task 2 - Complete
-Task 3 - Complete
-Task 4 - Not Pass
-Task 5 - Not Pass
-Task 6 - Not Pass
+
 
 * Refer to the BigCommerce developer documentation for any questions you might have. It will contain all the info needed to complete the tasks below
 
